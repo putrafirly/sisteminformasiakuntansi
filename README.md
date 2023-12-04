@@ -168,4 +168,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+## Flowchart
+![WhatsApp Image 2023-12-04 at 14 44 09](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/0d993a44-3806-4730-9d0f-9021b8682fc3)
+![WhatsApp Image 2023-12-04 at 14 31 38](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/e4d5c3ed-e92f-4d00-a985-15a016592f7e)
+![WhatsApp Image 2023-12-04 at 14 31 38 (1)](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/827db7ee-6f3f-4ab6-bbca-e7586a6b8923)
+![WhatsApp Image 2023-12-04 at 14 31 39](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/c63d315d-cf81-45fd-ba79-130ecd0a2862)
+![WhatsApp Image 2023-12-04 at 14 31 39 (1)](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/d863a199-9ddc-4737-a6e1-eeea6fe549e8)
+![WhatsApp Image 2023-12-04 at 14 31 39 (2)](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/53d55f40-0705-43d9-908d-debcbd42f1a4)
+![WhatsApp Image 2023-12-04 at 14 31 40](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/543580c0-c390-4a58-920f-3e56833e709c)
+![WhatsApp Image 2023-12-04 at 14 31 40 (1)](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/7f8deda8-e8b6-481e-bcb8-12abaf3848f5)
+![WhatsApp Image 2023-12-04 at 14 31 41](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/c2e3b678-d0d1-41c6-aa7e-bbb617220597)
+![WhatsApp Image 2023-12-04 at 14 31 41 (1)](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/ecf6ebc9-e5d2-46f9-b2be-a1bc43e4ef6f)
+![WhatsApp Image 2023-12-04 at 14 31 42](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/a56a0335-dc5c-41ca-8842-3cf90a84b434)
+![WhatsApp Image 2023-12-04 at 14 31 42 (1)](https://github.com/putrafirly/sisteminformasiakuntansi/assets/152130441/756bc22a-96a6-474e-8380-8bccafb82426)
+
+
 ## Donasinya Kakak https://saweria.co/maulanakevinp Terima Kasih ^_^
